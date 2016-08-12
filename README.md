@@ -3,7 +3,7 @@ Plugin create simple multi level dropdown menu for inserting custom HTML code or
 
 This plugin supports ***TinyMCE 4.x***.
 
-Older versions of the plugin for **TinyMCE 3.x**: https://github.com/eduardstula/tinymce-simple-snippet.
+Older version of the plugin for **TinyMCE 3.x**: https://github.com/eduardstula/tinymce-simple-snippet.
 
 ## Screenshot
 dropdown **multilevel menu**
