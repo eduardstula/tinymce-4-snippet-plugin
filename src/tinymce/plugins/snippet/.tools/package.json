@@ -1,0 +1,9 @@
+{
+  "name": "snippet-plugin",
+  "version": "1.0.0",
+  "author": "http://www.eduardstula.cz/",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
