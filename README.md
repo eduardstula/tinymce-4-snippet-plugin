@@ -90,3 +90,9 @@ var snippet_data = [
 }
 ];
 ```
+
+## Demo
+
+See the demo.
+
+https://www.eduardstula.cz/demo/tinymce-4-snippet-plugin/
